@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.db
+
+# node / frontend
+node_modules/
+dist/
+
+# прочее
+.DS_Store
+.idea/
+.vscode/
